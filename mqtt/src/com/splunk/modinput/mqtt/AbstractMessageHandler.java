@@ -40,7 +40,6 @@ public abstract class AbstractMessageHandler {
 
 		SplunkLogEvent event = new SplunkLogEvent("mqtt_msg_received",
 				 "", true, false);
-
 		
 		return event;
 

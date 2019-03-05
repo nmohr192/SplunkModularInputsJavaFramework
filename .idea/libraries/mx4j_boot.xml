@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="mx4j_boot">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jmx/bin/lib/mx4j_boot/mx4j-remote.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jmx/bin/lib/mx4j_boot/mx4j.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

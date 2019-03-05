@@ -22,10 +22,8 @@ public class DefaultMessageHandler extends AbstractMessageHandler {
 		splunkEvent.addPair("topic", topic);
 		splunkEvent.addPair("msg", getMessageBody(message));
 		
-		
 		String text = splunkEvent.toString();
 		transportMessage(text,String.valueOf(System.currentTimeMillis()),"");
-
 	}
 
 	public static List<String> chunkData(String text, int size) {

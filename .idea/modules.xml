@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SplunkModularInputsJavaFramework.iml" filepath="$PROJECT_DIR$/SplunkModularInputsJavaFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alexa/alexa.iml" filepath="$PROJECT_DIR$/alexa/alexa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/amqp/amqp.iml" filepath="$PROJECT_DIR$/amqp/amqp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/protocol/bin/bin.iml" filepath="$PROJECT_DIR$/protocol/bin/bin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coap/coap.iml" filepath="$PROJECT_DIR$/coap/coap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/helloworld/helloworld.iml" filepath="$PROJECT_DIR$/helloworld/helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jms/jms.iml" filepath="$PROJECT_DIR$/jms/jms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jmx/jmx.iml" filepath="$PROJECT_DIR$/jmx/jmx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka/kafka.iml" filepath="$PROJECT_DIR$/kafka/kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kinesis/kinesis.iml" filepath="$PROJECT_DIR$/kinesis/kinesis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mqtt/mqtt.iml" filepath="$PROJECT_DIR$/mqtt/mqtt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/protocol/protocol.iml" filepath="$PROJECT_DIR$/protocol/protocol.iml" />
+    </modules>
+  </component>
+</project>

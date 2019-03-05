@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="lib6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jmx/bin/lib/commons-discovery-0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jmx/bin/lib/axis.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jmx/bin/lib/xercesImpl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jmx/bin/lib/jaxrpc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jmx/bin/lib/mx4j-tools.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jmx/bin/lib/hessian-3.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jmx/bin/lib/wsdl4j.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jmx/bin/lib/saaj.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jmx/bin/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jmx/bin/lib/castor-1.3-xml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jmx/bin/lib/castor-1.3-core.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

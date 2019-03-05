@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="tools-win">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jmx/bin/lib/win/tools-win.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

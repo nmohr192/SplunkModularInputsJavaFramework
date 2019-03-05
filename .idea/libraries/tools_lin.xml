@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="tools-lin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jmx/bin/lib/lin/tools-lin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
